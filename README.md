@@ -3,6 +3,7 @@
 - Recently, I'm focusing on the _distributed system, both principle and application_.  
 
 ## SNS Links
+- [Mail](mailto:stleox@qq.com)
 - [StLeoX's Blog](https://stleox.github.io/)
 - [Zhihu](https://www.zhihu.com/people/stleox)
 - [Gitee](https://gitee.com/stleox)
