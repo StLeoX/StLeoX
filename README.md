@@ -1,6 +1,6 @@
 ## Hi,there 👋
-- I'm StLeoX, and my real name is Leo Xie. Currently, I'm studying at WHU CS as an undergraduate student.  
-- Recently, I'm focusing on the _distributed system, both principle and application_.  
+- I'm Leo Xie, an undergraduate at WHU CS.  
+- Recently, I'm focusing on the _Database System_, especially the multi-model database.  
 
 ## SNS Links
 - [Mail](mailto:stleox@qq.com)
