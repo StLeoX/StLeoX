@@ -4,9 +4,7 @@
 
 ## SNS Links
 - [Mail](mailto:stleox@qq.com)
-- [StLeoX's Blog](https://stleox.github.io/)
 - [Zhihu](https://www.zhihu.com/people/stleox)
-- [Gitee](https://gitee.com/stleox)
 - [Stack Overflow](https://stackoverflow.com/users/13881588/st-leo-x)
 
 <hr>
@@ -25,9 +23,5 @@
 | Github Statistics                                                                                           | My Languages                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 |[![StLeoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=StLeoX&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StLeoX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
-
-<hr>
-
-![stormbrokne's github activity graph](https://activity-graph.herokuapp.com/graph?username=stleox&bg_color=ffffff&color=708090&line=00bfff&point=24292e&area_color=87cefa&area=true&hide_border=true)
 
 <hr>
