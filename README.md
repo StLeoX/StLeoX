@@ -1,11 +1,6 @@
 ## Hi,there 👋
 - I'm Leo Xie, an undergraduate at WHU CS.  
-- Recently, I'm focusing on the _Database System_, especially the multi-model database.  
-
-## SNS Links
-- [Mail](mailto:stleox@qq.com)
-- [Zhihu](https://www.zhihu.com/people/stleox)
-- [Stack Overflow](https://stackoverflow.com/users/13881588/st-leo-x)
+- Currently focusing: _DBMS_, especially _OLAP_.  
 
 <hr>
 
