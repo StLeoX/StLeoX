@@ -1,5 +1,5 @@
 ## Hi,there 👋
-- I'm Leo Xie, an undergraduate at WHU CS.  
+- I'm Leo Xie, from _ISCAS_.  
 - Currently focusing: _DBMS_, especially _OLAP_.  
 
 <hr>
