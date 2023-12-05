@@ -1,6 +1,6 @@
 ## Hi,there 👋
 - I'm Leo Xie, from _ISCAS_.  
-- Currently focusing: _DBMS_, especially _OLAP_.  
+- Currently focusing: _Observability_, especially _Tracing Distributed System_.  
 
 <hr>
 
