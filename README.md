@@ -1,14 +1,6 @@
 ## Hi,there 👋
 - I'm Leo Xie, from _ISCAS_.  
-- Currently focusing: _Observability_, especially _Tracing Distributed System_.  
-
-<hr>
-
-<p align="center">
-  <h2 align="center">My Github Trophy</h2>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=stleox&margin-w=40&margin-h=40)](https://github.com/stleox)
+- Currently focusing: _Cloud Native_, _Observability_, _Distributed Tracing_.  
 
 <hr>
 
