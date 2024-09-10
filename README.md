@@ -1,11 +1,10 @@
 ## Hi,there 👋
-- I'm Leo Xie, from _ISCAS_.  
-- Currently focusing: _Cloud Native_, _Observability_, _Distributed Tracing_.  
+- Currently focusing topics: _Cloud Native Observability_, _Distributed Tracing_, _eBPF techniques_.  
 
 <hr>
 
 <p align="center">
- <h2 align="center">My Github Stats</h2>
+ <h2 align="center">Leo's Github Stats</h2>
 
 | Github Statistics                                                                                           | My Languages                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
