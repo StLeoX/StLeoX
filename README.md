@@ -1,5 +1,8 @@
-## Hi,there 👋
-- Currently focusing topics: _Cloud Native Observability_, _Distributed Tracing_, _eBPF techniques_.  
+<p align="center">
+ <h2 align="center">Hi👋, I'm Leo Xie</h2>
+
+ Now I'm interested in **Agent Infra**, including _Agent Runtime_, _Agent Harness_.  
+ I used to focus on _Cloud Native Observability_, _Distributed Tracing_, _eBPF Techniques_.
 
 <hr>
 
