@@ -1,16 +1,27 @@
-<p align="center">
- <h2 align="center">Hi👋, I'm Leo Xie</h2>
+### Hi👏, I'm Leo Xie
 
- Now I'm interested in **Agent Infra**, including _Agent Runtime_, _Agent Harness_.  
- I used to focus on _Cloud Native Observability_, _Distributed Tracing_, _eBPF Techniques_.
+LLM Infra | Agent Runtime | Cloud-Native Performance
 
-<hr>
+---
 
-<p align="center">
- <h2 align="center">Leo's Github Stats</h2>
+**🔧 Tech Interests & Focus**
 
-| Github Statistics                                                                                           | My Languages                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-|[![StLeoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=StLeoX&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StLeoX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+- **Large Language Models (LLM Infra)**: Model serving, Prompt engineering  
+- **Agent Infrastructure**: Agent Runtime, Agent Harness, MCP & Skill integration  
+- **Cloud Native Observability**: Distributed Tracing (OpenTelemetry, Jaeger), eBPF, Prometheus  
+- **Performance & Benchmarking**: Benchmark design, Load testing, Continuous profiling  
 
-<hr>
+---
+
+**📊 My GitHub Stats**
+
+| ![StLeoX's GitHub stats](https://github-readme-stats.vercel.app/api?username=StLeoX&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StLeoX&layout=compact&theme=radical) |
+| :---: | :---: |
+
+<details>
+<summary>💡 More about me</summary>
+
+- 🚀 Previously: Cloud Native Observability, Distributed Tracing, eBPF
+- 🧠 Currently: Building high-performance, large-scale Agent Infrastructure
+
+</details>
